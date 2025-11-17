@@ -109,7 +109,8 @@ print(plan)
 
 ## Output:
 
-<img width="1554" height="157" alt="image" src="https://github.com/user-attachments/assets/fcfbe541-d003-4fa8-8bfe-19f205f948cf" />
+<img width="323" height="41" alt="image" src="https://github.com/user-attachments/assets/15098740-a8b0-4d77-8deb-b21b2f1f9780" />
+
 
 
 ## Result:
